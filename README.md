@@ -1,4 +1,4 @@
-# MyTerminal 🐍
+# Python-Based-Command-Terminal
 
 A powerful, modular, and extensible command-line terminal built in Python.
 
@@ -69,3 +69,4 @@ To start the terminal, run the `main.py` script from the root of the project dir
 
 ```sh
 python main.py
+
