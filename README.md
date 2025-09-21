@@ -42,7 +42,7 @@ Follow these steps to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Dhathatreya/Python-Based-Command-Terminal.git](https://github.com/Dhathatreya/Python-Based-Command-Terminal.git)
+    git clone https://github.com/Dhathatreya/Python-Based-Command-Terminal.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -69,4 +69,5 @@ To start the terminal, run the `main.py` script from the root of the project dir
 
 ```sh
 python main.py
+
 
